@@ -1,24 +1,24 @@
 .bkg {
-  background-color: rgb(161, 167, 167);
+  background-color: rgb(255, 255, 255);
 }
 .dbkg {
   background-color: rgb(121, 121, 121);
 }
 .container {
-  width: 435px;
+  width: 410px;
   margin-top: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: rgb(160, 96, 161);
+  background-color: rgb(183, 179, 183);
   padding: 5%;
   border-radius: 30px;
   border: 5px solid black;
   height: 600px;
 }
 .container2 {
-  width: 500px;
+  width: 410px;
   margin-top: 50px;
   display: flex;
   align-items: center;
@@ -34,8 +34,8 @@
 .heading {
   border-radius: 10px;
   display: flex;
-  background-color: rgb(146, 26, 155);
-  color: rgb(255, 167, 211);
+  background-color: aqua;
+  color: rgb(23, 21, 117);
   margin-bottom: 30px;
   padding: 2px;
   width: 350px;
@@ -56,7 +56,7 @@
 .button {
   font-weight: bolder;
   border-color: bisque;
-  background-color: black;
+  background-color: rgb(2, 134, 139);
   color: aliceblue;
   transition: transform 0.3s;
   border-radius: 100%;
@@ -95,8 +95,8 @@ button:hover {
   background-color: aliceblue;
   font-size: 130%;
   border-radius: 10px;
-  background-color: black;
-  color: aliceblue;
+  background-color: rgb(231, 212, 188);
+  color: rgb(0, 0, 0);
 }
 .inputdark {
   width: 300px;
